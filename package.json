@@ -7,7 +7,6 @@
   "description": "A Company-Wide Compliance Project",
   "homepage": "/",
   "engines": {
-    "node": "14 || 15 || 16",
     "npm": ">=6"
   },
   "dependencies": {
@@ -72,6 +71,7 @@
     "eslint": "^7.2.0",
     "eslint-config-airbnb": "18.2.1",
     "eslint-config-prettier": "8.3.0",
+    "eslint-config-react-app": "^7.0.1",
     "eslint-plugin-import": "2.23.4",
     "eslint-plugin-jsx-a11y": "6.4.1",
     "eslint-plugin-prettier": "3.4.0",

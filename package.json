@@ -5,7 +5,6 @@
 	"author": "Tomide Adeoye",
 	"license": " Mit license",
 	"description": "A Company-Wide Compliance Project",
-	"homepage": "https://project-unicom.github.io/unicom/",
 	"engines": {
 		"npm": ">=6"
 	},
